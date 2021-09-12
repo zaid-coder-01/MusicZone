@@ -1,0 +1,42 @@
+@charset "ISO-8859-1";
+
+.back{
+/*//background-image:url(img/1.jpg);
+background-size:cover;
+overflow-x:hidden;*/
+
+
+}
+
+.log{
+background-image:url(img/1.jpg);
+background-size:cover;
+overflow-x:hidden;
+
+
+}
+.lftna{
+	
+	
+}
+.mdl{
+	width:100%;
+	
+	margin-left:2rem;
+}
+
+.btn{
+	background-color:rgba(0,0,0,0);
+	color:white;
+	font-size:1.2rem;
+}
+
+.srch{
+	width:16rem;
+	background-color:rgba(0,0,0,0);
+	border: 0.1rem solid lightgray;
+	border-radius:2rem;
+	outline:none;
+	margin-top:0.9rem;
+	padding-left:0.7rem;
+}
