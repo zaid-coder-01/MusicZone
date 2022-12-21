@@ -1,3 +1,3 @@
 from tomcat
-copy dist/ /usr/local/tomcat/webapps/
+copy dist/Music_Player.war /usr/local/tomcat/webapps/Music_Player.war
 
